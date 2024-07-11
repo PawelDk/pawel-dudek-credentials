@@ -1,0 +1,1 @@
+It's just a place to store and share confirmations of achievements that are not available online, e.g., AGH Olympiad or ABB credentials. For consistency, I have also added the more important ones even if they are available online. 
